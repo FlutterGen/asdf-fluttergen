@@ -2,7 +2,7 @@
 
 # asdf-fluttergen [![Build](https://github.com/FlutterGen/asdf-fluttergen/actions/workflows/build.yml/badge.svg)](https://github.com/FlutterGen/asdf-fluttergen/actions/workflows/build.yml) [![Lint](https://github.com/FlutterGen/asdf-fluttergen/actions/workflows/lint.yml/badge.svg)](https://github.com/FlutterGen/asdf-fluttergen/actions/workflows/lint.yml)
 
-[fluttergen](https://github.com/FlutterGen/flutter_gen) plugin for the [asdf version manager](https://asdf-vm.com).
+[FlutterGen](https://github.com/FlutterGen/flutter_gen) plugin for the [asdf version manager](https://asdf-vm.com).
 
 </div>
 
@@ -14,8 +14,6 @@
 - [License](#license)
 
 # Dependencies
-
-**TODO: adapt this section**
 
 - `bash`, `curl`, `tar`, and [POSIX utilities](https://pubs.opengroup.org/onlinepubs/9699919799/idx/utilities.html).
 - `SOME_ENV_VAR`: set this environment variable in your shell config to load the correct version of tool x.
